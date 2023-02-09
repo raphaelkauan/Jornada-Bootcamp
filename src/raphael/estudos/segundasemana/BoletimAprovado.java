@@ -1,3 +1,4 @@
+package raphael.estudos.segundasemana;
 public class BoletimAprovado {
   public static void main(String[] args) {
     int mediaFinal = 8;

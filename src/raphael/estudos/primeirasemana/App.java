@@ -1,3 +1,4 @@
+package raphael.estudos.primeirasemana;
 public class App {
     public static void main(String[] args) throws Exception {
         String primeiroNome = "Rapha";
