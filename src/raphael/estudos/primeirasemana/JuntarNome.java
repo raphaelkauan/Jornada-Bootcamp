@@ -1,7 +1,7 @@
 package raphael.estudos.primeirasemana;
-public class App {
+public class JuntarNome {
     public static void main(String[] args) throws Exception {
-        String primeiroNome = "Rapha";
+        String primeiroNome = "Raphael";
         String segundoNome = "Kauan";
         
         String nomeCompleto = nomeCompleto(primeiroNome,segundoNome);
