@@ -1,0 +1,35 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch BoletimAprovado",
+      "request": "launch",
+      "mainClass": "raphael.estudos.primeirasemana.BoletimAprovado",
+      "projectName": "DioEstudosJava_7c70abd5"
+    },
+    {
+      "type": "java",
+      "name": "Launch JuntarNome",
+      "request": "launch",
+      "mainClass": "raphael.estudos.primeirasemana.JuntarNome",
+      "projectName": "DioEstudosJava_7c70abd5"
+    },
+    {
+      "type": "java",
+      "name": "Launch AboutMe",
+      "request": "launch",
+      "mainClass": "raphael.estudos.segundasemana.AboutMe",
+      "projectName": "DioEstudosJava_7c70abd5"
+    }
+  ]
+}
