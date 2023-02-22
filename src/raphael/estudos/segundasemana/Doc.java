@@ -15,7 +15,7 @@ package raphael.estudos.segundasemana;
  * @since 18/02/20234
  */
 
-public class Calculadora {
+public class Doc {
   /**
    * Este método é utilizado para somar dois números inteiros
    * 
