@@ -1,4 +1,4 @@
-package raphael.estudos.segundasemana;
+package raphael.estudos.primeirasemana;
 
 import java.util.Scanner;
 import java.util.Locale;
