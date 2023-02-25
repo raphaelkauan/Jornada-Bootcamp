@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Ex4_ParEImpar",
+      "request": "launch",
+      "mainClass": "raphael.estudos.terceirasemana.loops.Ex4_ParEImpar",
+      "projectName": "DioEstudosJava_7c70abd5"
+    },
+    {
+      "type": "java",
       "name": "Launch Ex3_MaiorEMedia",
       "request": "launch",
       "mainClass": "raphael.estudos.terceirasemana.loops.Ex3_MaiorEMedia",
