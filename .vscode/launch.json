@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Ex2_Nota",
+      "request": "launch",
+      "mainClass": "raphael.estudos.terceirasemana.loops.Ex2_Nota",
+      "projectName": "DioEstudosJava_7c70abd5"
+    },
+    {
+      "type": "java",
       "name": "Launch Ex1_NomeEIdade",
       "request": "launch",
       "mainClass": "raphael.estudos.terceirasemana.loops.Ex1_NomeEIdade",
