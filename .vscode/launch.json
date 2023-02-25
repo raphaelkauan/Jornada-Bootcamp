@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch AboutMe",
+      "request": "launch",
+      "mainClass": "AboutMe",
+      "projectName": "DioEstudosJava_7c70abd5"
+    },
+    {
+      "type": "java",
       "name": "Launch ControleDeFluxo",
       "request": "launch",
       "mainClass": "raphael.estudos.segundasemana.ControleDeFluxo",
