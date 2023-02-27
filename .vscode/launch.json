@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Ex3_NumerosAleatorios",
+      "request": "launch",
+      "mainClass": "raphael.estudos.terceirasemana.arrays.Ex3_NumerosAleatorios",
+      "projectName": "DioEstudosJava_7c70abd5"
+    },
+    {
+      "type": "java",
       "name": "Launch Ex2_Consoantes",
       "request": "launch",
       "mainClass": "raphael.estudos.terceirasemana.arrays.Ex2_Consoantes",
