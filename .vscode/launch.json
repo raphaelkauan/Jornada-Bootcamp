@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Ex4_ArrayMultidimensional",
+      "request": "launch",
+      "mainClass": "raphael.estudos.terceirasemana.arrays.Ex4_ArrayMultidimensional",
+      "projectName": "DioEstudosJava_7c70abd5"
+    },
+    {
+      "type": "java",
       "name": "Launch Ex3_NumerosAleatorios",
       "request": "launch",
       "mainClass": "raphael.estudos.terceirasemana.arrays.Ex3_NumerosAleatorios",
