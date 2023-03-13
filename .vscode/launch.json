@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "raphael.estudos.quartasemana.Main",
+      "projectName": "DioEstudosJava_7c70abd5"
+    },
+    {
+      "type": "java",
       "name": "Calculadora",
       "request": "launch",
       "mainClass": "raphael.estudos.quartasemana.Calculadora",
