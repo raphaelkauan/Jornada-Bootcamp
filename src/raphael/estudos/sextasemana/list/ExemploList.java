@@ -1,4 +1,4 @@
-package raphael.estudos.sextasemana;
+package raphael.estudos.sextasemana.list;
 
 import java.util.*;
 
