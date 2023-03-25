@@ -69,5 +69,4 @@ public class ExemploSet {
 
         System.out.println("Confira se o conjuto está vazio: " + notas.isEmpty());
     }
-
 }

@@ -75,5 +75,4 @@ public class ExemploList {
         System.out.println("Confira se a lista está vazia: " + notas.isEmpty());
 
     }
-
 }
